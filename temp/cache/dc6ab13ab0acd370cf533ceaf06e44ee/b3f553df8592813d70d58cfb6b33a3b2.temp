@@ -1,0 +1,106 @@
+<?php return array (
+  'time' => 1725903283,
+  'data' => 
+  array (
+    'blog_category_chain' => 
+    array (
+      'avtonovosti' => 
+      array (
+        'blog_category_id' => '1',
+        'blog_category_name' => 'Автоновости',
+        'blog_category_visible' => '1',
+        'blog_category_title' => 'Автоновости',
+        'blog_category_id_position' => '0',
+        'blog_category_desc' => '',
+        'blog_category_id_parent' => '0',
+        'blog_category_image' => '',
+        'blog_category_text' => '',
+        'blog_category_alias' => 'avtonovosti',
+        'blog_category_h1' => 'Автоновости',
+        'blog_category_chain' => 'avtonovosti',
+      ),
+      'autospot' => 
+      array (
+        'blog_category_id' => '2',
+        'blog_category_name' => 'autospot',
+        'blog_category_visible' => '1',
+        'blog_category_title' => 'autospot',
+        'blog_category_id_position' => '0',
+        'blog_category_desc' => '',
+        'blog_category_id_parent' => '0',
+        'blog_category_image' => NULL,
+        'blog_category_text' => '',
+        'blog_category_alias' => 'autospot',
+        'blog_category_h1' => 'autospot',
+        'blog_category_chain' => 'autospot',
+      ),
+    ),
+    'blog_category_id_parent' => 
+    array (
+      0 => 
+      array (
+        1 => 
+        array (
+          'blog_category_id' => '1',
+          'blog_category_name' => 'Автоновости',
+          'blog_category_visible' => '1',
+          'blog_category_title' => 'Автоновости',
+          'blog_category_id_position' => '0',
+          'blog_category_desc' => '',
+          'blog_category_id_parent' => '0',
+          'blog_category_image' => '',
+          'blog_category_text' => '',
+          'blog_category_alias' => 'avtonovosti',
+          'blog_category_h1' => 'Автоновости',
+          'blog_category_chain' => 'avtonovosti',
+        ),
+        2 => 
+        array (
+          'blog_category_id' => '2',
+          'blog_category_name' => 'autospot',
+          'blog_category_visible' => '1',
+          'blog_category_title' => 'autospot',
+          'blog_category_id_position' => '0',
+          'blog_category_desc' => '',
+          'blog_category_id_parent' => '0',
+          'blog_category_image' => NULL,
+          'blog_category_text' => '',
+          'blog_category_alias' => 'autospot',
+          'blog_category_h1' => 'autospot',
+          'blog_category_chain' => 'autospot',
+        ),
+      ),
+    ),
+    'blog_category_id' => 
+    array (
+      1 => 
+      array (
+        'blog_category_id_parent' => '0',
+        'blog_category_name' => 'Автоновости',
+        'blog_category_title' => 'Автоновости',
+        'blog_category_h1' => 'Автоновости',
+        'blog_category_desc' => '',
+        'blog_category_image' => '',
+        'blog_category_text' => '',
+        'blog_category_alias' => 'avtonovosti',
+        'blog_category_visible' => '1',
+        'blog_category_id' => '1',
+        'blog_category_chain' => 'avtonovosti',
+      ),
+      2 => 
+      array (
+        'blog_category_id_parent' => '0',
+        'blog_category_name' => 'autospot',
+        'blog_category_title' => 'autospot',
+        'blog_category_h1' => 'autospot',
+        'blog_category_desc' => '',
+        'blog_category_image' => NULL,
+        'blog_category_text' => '',
+        'blog_category_alias' => 'autospot',
+        'blog_category_visible' => '1',
+        'blog_category_id' => '2',
+        'blog_category_chain' => 'autospot',
+      ),
+    ),
+  ),
+) ?>

@@ -1,0 +1,32 @@
+<?php return array (
+  'time' => 1725902272,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        375 => 
+        array (
+          'ads_filters_id' => '375',
+          'ads_filters_name' => 'Виды дополнительных услуг',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '96',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vidy-dopolnitelnyh-uslug',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      375 => 
+      array (
+        'ads_filters_name' => 'Виды дополнительных услуг',
+        'ads_filters_type' => 'select_multi',
+      ),
+    ),
+  ),
+) ?>

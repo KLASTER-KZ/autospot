@@ -1,0 +1,32 @@
+<?php return array (
+  'time' => 1725903530,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        382 => 
+        array (
+          'ads_filters_id' => '382',
+          'ads_filters_name' => 'Плановое обслуживание',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '103',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'planovoe-obsluzhivanie',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      382 => 
+      array (
+        'ads_filters_name' => 'Плановое обслуживание',
+        'ads_filters_type' => 'select_multi',
+      ),
+    ),
+  ),
+) ?>

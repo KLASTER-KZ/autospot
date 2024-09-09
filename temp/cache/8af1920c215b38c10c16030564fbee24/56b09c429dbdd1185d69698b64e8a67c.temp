@@ -1,0 +1,151 @@
+<?php return array (
+  'time' => 1725902646,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        362 => 
+        array (
+          'ads_filters_id' => '362',
+          'ads_filters_name' => 'Сезон',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_multi_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'sezon',
+          'ads_filters_required' => '1',
+        ),
+        368 => 
+        array (
+          'ads_filters_id' => '368',
+          'ads_filters_name' => 'Страна производитель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'country',
+          'ads_filters_required' => '0',
+        ),
+        92 => 
+        array (
+          'ads_filters_id' => '92',
+          'ads_filters_name' => 'Диаметр (R)',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '6',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'diametr-r',
+          'ads_filters_required' => '1',
+        ),
+        364 => 
+        array (
+          'ads_filters_id' => '364',
+          'ads_filters_name' => 'Ширина шины',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '7',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tire-width',
+          'ads_filters_required' => '1',
+        ),
+        365 => 
+        array (
+          'ads_filters_id' => '365',
+          'ads_filters_name' => 'Высота шины',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tire-height',
+          'ads_filters_required' => '1',
+        ),
+        89 => 
+        array (
+          'ads_filters_id' => '89',
+          'ads_filters_name' => 'Состояние',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_multi_btn',
+          'ads_filters_position' => '11',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'conditions',
+          'ads_filters_required' => '1',
+        ),
+        363 => 
+        array (
+          'ads_filters_id' => '363',
+          'ads_filters_name' => 'Наличие',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '12',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'stock',
+          'ads_filters_required' => '1',
+        ),
+        366 => 
+        array (
+          'ads_filters_id' => '366',
+          'ads_filters_name' => 'Есть доставка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'delivery',
+          'ads_filters_required' => '1',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      362 => 
+      array (
+        'ads_filters_name' => 'Сезон',
+        'ads_filters_type' => 'input_multi_btn',
+      ),
+      368 => 
+      array (
+        'ads_filters_name' => 'Страна производитель',
+        'ads_filters_type' => 'select',
+      ),
+      92 => 
+      array (
+        'ads_filters_name' => 'Диаметр (R)',
+        'ads_filters_type' => 'select',
+      ),
+      364 => 
+      array (
+        'ads_filters_name' => 'Ширина шины',
+        'ads_filters_type' => 'select',
+      ),
+      365 => 
+      array (
+        'ads_filters_name' => 'Высота шины',
+        'ads_filters_type' => 'select',
+      ),
+      89 => 
+      array (
+        'ads_filters_name' => 'Состояние',
+        'ads_filters_type' => 'input_multi_btn',
+      ),
+      363 => 
+      array (
+        'ads_filters_name' => 'Наличие',
+        'ads_filters_type' => 'input_btn',
+      ),
+      366 => 
+      array (
+        'ads_filters_name' => 'Есть доставка',
+        'ads_filters_type' => 'input_btn',
+      ),
+    ),
+  ),
+) ?>

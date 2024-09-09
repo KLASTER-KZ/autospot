@@ -1,0 +1,34 @@
+User-agent: *
+Host: autospot.ge
+Sitemap: https://autospot.ge/sitemap.xml
+Disallow: /media/
+Disallow: /temp/
+Disallow: /eng/user/
+Disallow: /geo/user/
+Disallow: /rus/user/
+Disallow: /hy/user/
+Disallow: /kk/user/
+Disallow: /uk/user/
+Disallow: /tr/user/
+Disallow: /uz/user/
+Disallow: /az/user/
+Disallow: /ky/user/
+Disallow: /templates/
+Disallow: /systems/ajax/cart.php
+Disallow: /systems/ajax/chat.php
+Allow: /media/images_boards/small
+Allow: /media/images_boards/big
+
+Clean-param: searchInput
+Clean-param: q
+Clean-param: pageCount
+Clean-param: term
+
+User-agent: AhrefsBot
+Crawl-Delay: 1
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /

@@ -1,0 +1,1483 @@
+<?php return array (
+  'time' => 1725900856,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        337 => 
+        array (
+          'ads_filters_id' => '337',
+          'ads_filters_name' => 'Класс',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '1',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'klass',
+          'ads_filters_required' => '1',
+        ),
+        83 => 
+        array (
+          'ads_filters_id' => '83',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '1',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        85 => 
+        array (
+          'ads_filters_id' => '85',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '1',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        86 => 
+        array (
+          'ads_filters_id' => '86',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '1',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        91 => 
+        array (
+          'ads_filters_id' => '91',
+          'ads_filters_name' => 'Категория',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '1',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'category',
+          'ads_filters_required' => '0',
+        ),
+        90 => 
+        array (
+          'ads_filters_id' => '90',
+          'ads_filters_name' => 'Марка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'marka',
+          'ads_filters_required' => '1',
+        ),
+        362 => 
+        array (
+          'ads_filters_id' => '362',
+          'ads_filters_name' => 'Сезон',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_multi_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'sezon',
+          'ads_filters_required' => '1',
+        ),
+        311 => 
+        array (
+          'ads_filters_id' => '311',
+          'ads_filters_name' => 'Год выпуска',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '3',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'god-vypuska',
+          'ads_filters_required' => '1',
+        ),
+        360 => 
+        array (
+          'ads_filters_id' => '360',
+          'ads_filters_name' => 'Подходят к',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '3',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'marka',
+          'ads_filters_required' => '0',
+        ),
+        309 => 
+        array (
+          'ads_filters_id' => '309',
+          'ads_filters_name' => 'Тип кузова',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip-kuzova',
+          'ads_filters_required' => '1',
+        ),
+        314 => 
+        array (
+          'ads_filters_id' => '314',
+          'ads_filters_name' => 'Объём',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'obem',
+          'ads_filters_required' => '1',
+        ),
+        93 => 
+        array (
+          'ads_filters_id' => '93',
+          'ads_filters_name' => 'Вид транспорта',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vid-transporta',
+          'ads_filters_required' => '0',
+        ),
+        368 => 
+        array (
+          'ads_filters_id' => '368',
+          'ads_filters_name' => 'Страна производитель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'country',
+          'ads_filters_required' => '0',
+        ),
+        312 => 
+        array (
+          'ads_filters_id' => '312',
+          'ads_filters_name' => 'Тип двигателя',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '5',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip-dvigatelya',
+          'ads_filters_required' => '1',
+        ),
+        369 => 
+        array (
+          'ads_filters_id' => '369',
+          'ads_filters_name' => 'марка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '5',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'marka',
+          'ads_filters_required' => '0',
+        ),
+        315 => 
+        array (
+          'ads_filters_id' => '315',
+          'ads_filters_name' => 'Состояние',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '6',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'sostoyanie',
+          'ads_filters_required' => '1',
+        ),
+        92 => 
+        array (
+          'ads_filters_id' => '92',
+          'ads_filters_name' => 'Диаметр (R)',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '6',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'diametr-r',
+          'ads_filters_required' => '1',
+        ),
+        335 => 
+        array (
+          'ads_filters_id' => '335',
+          'ads_filters_name' => 'Растаможен',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '7',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'rastamozhen',
+          'ads_filters_required' => '1',
+        ),
+        338 => 
+        array (
+          'ads_filters_id' => '338',
+          'ads_filters_name' => 'Количество пассажиров',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '7',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'kolichestvo-passazhirov',
+          'ads_filters_required' => '1',
+        ),
+        364 => 
+        array (
+          'ads_filters_id' => '364',
+          'ads_filters_name' => 'Ширина шины',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '7',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tire-width',
+          'ads_filters_required' => '1',
+        ),
+        339 => 
+        array (
+          'ads_filters_id' => '339',
+          'ads_filters_name' => 'Мест для багажа',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'mest-dlya-bagazha',
+          'ads_filters_required' => '0',
+        ),
+        345 => 
+        array (
+          'ads_filters_id' => '345',
+          'ads_filters_name' => 'Цвет кузова',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn_color',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'cvet-kuzova',
+          'ads_filters_required' => '1',
+        ),
+        365 => 
+        array (
+          'ads_filters_id' => '365',
+          'ads_filters_name' => 'Высота шины',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tire-height',
+          'ads_filters_required' => '1',
+        ),
+        340 => 
+        array (
+          'ads_filters_id' => '340',
+          'ads_filters_name' => 'Кондиционер',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '9',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'kondicioner',
+          'ads_filters_required' => '1',
+        ),
+        359 => 
+        array (
+          'ads_filters_id' => '359',
+          'ads_filters_name' => 'Газовое оборудования',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '9',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'gazovoe-oborudovaniya',
+          'ads_filters_required' => '0',
+        ),
+        371 => 
+        array (
+          'ads_filters_id' => '371',
+          'ads_filters_name' => 'Диаметр расположения крепежных отверстий (PCD)',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '9',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'diametr-raspolozheniya-krepezhnyh-otverstiy-pcd',
+          'ads_filters_required' => '0',
+        ),
+        308 => 
+        array (
+          'ads_filters_id' => '308',
+          'ads_filters_name' => 'Коробка передач',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '10',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'korobka-peredach',
+          'ads_filters_required' => '0',
+        ),
+        341 => 
+        array (
+          'ads_filters_id' => '341',
+          'ads_filters_name' => 'Подушек безопасности:',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '10',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'podushek-bezopasnosti',
+          'ads_filters_required' => '1',
+        ),
+        372 => 
+        array (
+          'ads_filters_id' => '372',
+          'ads_filters_name' => 'Вылет (ET)',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '10',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vylet-et',
+          'ads_filters_required' => '0',
+        ),
+        306 => 
+        array (
+          'ads_filters_id' => '306',
+          'ads_filters_name' => 'Привод',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '11',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'privod',
+          'ads_filters_required' => '0',
+        ),
+        89 => 
+        array (
+          'ads_filters_id' => '89',
+          'ads_filters_name' => 'Состояние',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_multi_btn',
+          'ads_filters_position' => '11',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'conditions',
+          'ads_filters_required' => '1',
+        ),
+        56 => 
+        array (
+          'ads_filters_id' => '56',
+          'ads_filters_name' => 'Торг',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '12',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'torg',
+          'ads_filters_required' => '0',
+        ),
+        363 => 
+        array (
+          'ads_filters_id' => '363',
+          'ads_filters_name' => 'Наличие',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '12',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'stock',
+          'ads_filters_required' => '1',
+        ),
+        310 => 
+        array (
+          'ads_filters_id' => '310',
+          'ads_filters_name' => 'Пробег',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'probeg',
+          'ads_filters_required' => '0',
+        ),
+        316 => 
+        array (
+          'ads_filters_id' => '316',
+          'ads_filters_name' => 'Руль',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'rul',
+          'ads_filters_required' => '0',
+        ),
+        366 => 
+        array (
+          'ads_filters_id' => '366',
+          'ads_filters_name' => 'Есть доставка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'delivery',
+          'ads_filters_required' => '1',
+        ),
+        351 => 
+        array (
+          'ads_filters_id' => '351',
+          'ads_filters_name' => 'Обмен',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '14',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'obmen',
+          'ads_filters_required' => '0',
+        ),
+        367 => 
+        array (
+          'ads_filters_id' => '367',
+          'ads_filters_name' => 'Адрес',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'input_text',
+          'ads_filters_position' => '14',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'adress',
+          'ads_filters_required' => '0',
+        ),
+        313 => 
+        array (
+          'ads_filters_id' => '313',
+          'ads_filters_name' => 'Mощность',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '15',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'moshchnost',
+          'ads_filters_required' => '0',
+        ),
+        344 => 
+        array (
+          'ads_filters_id' => '344',
+          'ads_filters_name' => 'Тех. осмотр',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '15',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'teh-osmotr',
+          'ads_filters_required' => '0',
+        ),
+        370 => 
+        array (
+          'ads_filters_id' => '370',
+          'ads_filters_name' => 'Для',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '15',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'for',
+          'ads_filters_required' => '0',
+        ),
+        331 => 
+        array (
+          'ads_filters_id' => '331',
+          'ads_filters_name' => 'VIN',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_text',
+          'ads_filters_position' => '16',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vin',
+          'ads_filters_required' => '0',
+        ),
+        342 => 
+        array (
+          'ads_filters_id' => '342',
+          'ads_filters_name' => 'Turbo',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '16',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'turbo',
+          'ads_filters_required' => '0',
+        ),
+        336 => 
+        array (
+          'ads_filters_id' => '336',
+          'ads_filters_name' => 'Катализатор',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '17',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'katalizator',
+          'ads_filters_required' => '0',
+        ),
+        347 => 
+        array (
+          'ads_filters_id' => '347',
+          'ads_filters_name' => 'Мультимедиа',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '17',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'multimedia',
+          'ads_filters_required' => '0',
+        ),
+        348 => 
+        array (
+          'ads_filters_id' => '348',
+          'ads_filters_name' => 'Комфорт',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '18',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'komfor',
+          'ads_filters_required' => '0',
+        ),
+        350 => 
+        array (
+          'ads_filters_id' => '350',
+          'ads_filters_name' => 'Оптика',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '19',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'optika',
+          'ads_filters_required' => '0',
+        ),
+        343 => 
+        array (
+          'ads_filters_id' => '343',
+          'ads_filters_name' => 'Авто на гарантии',
+          'ads_filters_visible' => '0',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '21',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'avto-na-garantii',
+          'ads_filters_required' => '0',
+        ),
+        349 => 
+        array (
+          'ads_filters_id' => '349',
+          'ads_filters_name' => 'Экстерьер',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '23',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'eksterer',
+          'ads_filters_required' => '0',
+        ),
+        346 => 
+        array (
+          'ads_filters_id' => '346',
+          'ads_filters_name' => 'Интерьер',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '24',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'interer',
+          'ads_filters_required' => '0',
+        ),
+        84 => 
+        array (
+          'ads_filters_id' => '84',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '75',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        87 => 
+        array (
+          'ads_filters_id' => '87',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '78',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        88 => 
+        array (
+          'ads_filters_id' => '88',
+          'ads_filters_name' => 'Вид транспорта',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '79',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vid-transporta',
+          'ads_filters_required' => '1',
+        ),
+        94 => 
+        array (
+          'ads_filters_id' => '94',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '86',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        95 => 
+        array (
+          'ads_filters_id' => '95',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '87',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        96 => 
+        array (
+          'ads_filters_id' => '96',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '88',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        97 => 
+        array (
+          'ads_filters_id' => '97',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '89',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        98 => 
+        array (
+          'ads_filters_id' => '98',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '90',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        99 => 
+        array (
+          'ads_filters_id' => '99',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '91',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        100 => 
+        array (
+          'ads_filters_id' => '100',
+          'ads_filters_name' => 'Тип',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '92',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip',
+          'ads_filters_required' => '1',
+        ),
+        101 => 
+        array (
+          'ads_filters_id' => '101',
+          'ads_filters_name' => 'Пол',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select',
+          'ads_filters_position' => '93',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'pol',
+          'ads_filters_required' => '1',
+        ),
+        373 => 
+        array (
+          'ads_filters_id' => '373',
+          'ads_filters_name' => 'Виды диагностики',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '94',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vidy-diagnostiki',
+          'ads_filters_required' => '0',
+        ),
+        374 => 
+        array (
+          'ads_filters_id' => '374',
+          'ads_filters_name' => 'Ключи',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '95',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'klyuchi',
+          'ads_filters_required' => '0',
+        ),
+        375 => 
+        array (
+          'ads_filters_id' => '375',
+          'ads_filters_name' => 'Виды дополнительных услуг',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '96',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vidy-dopolnitelnyh-uslug',
+          'ads_filters_required' => '0',
+        ),
+        376 => 
+        array (
+          'ads_filters_id' => '376',
+          'ads_filters_name' => 'Производитель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '97',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'proizvoditel',
+          'ads_filters_required' => '0',
+        ),
+        377 => 
+        array (
+          'ads_filters_id' => '377',
+          'ads_filters_name' => 'Виды интерьерных услуг',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '98',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vidy-interernyh-uslug',
+          'ads_filters_required' => '0',
+        ),
+        378 => 
+        array (
+          'ads_filters_id' => '378',
+          'ads_filters_name' => 'Стекла',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '99',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'stekla',
+          'ads_filters_required' => '0',
+        ),
+        379 => 
+        array (
+          'ads_filters_id' => '379',
+          'ads_filters_name' => 'Мойка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '100',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'moyka',
+          'ads_filters_required' => '0',
+        ),
+        380 => 
+        array (
+          'ads_filters_id' => '380',
+          'ads_filters_name' => 'Мультимедиа',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '101',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'multimedia',
+          'ads_filters_required' => '0',
+        ),
+        381 => 
+        array (
+          'ads_filters_id' => '381',
+          'ads_filters_name' => 'Обслуживание колес и шин',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '102',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'obsluzhivanie-koles-i-shin',
+          'ads_filters_required' => '0',
+        ),
+        382 => 
+        array (
+          'ads_filters_id' => '382',
+          'ads_filters_name' => 'Плановое обслуживание',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '103',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'planovoe-obsluzhivanie',
+          'ads_filters_required' => '0',
+        ),
+        383 => 
+        array (
+          'ads_filters_id' => '383',
+          'ads_filters_name' => 'Программирование',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '104',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'programmirovanie',
+          'ads_filters_required' => '0',
+        ),
+        384 => 
+        array (
+          'ads_filters_id' => '384',
+          'ads_filters_name' => 'Услуги по ремонту выхлопной системы',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '105',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'uslugi-po-remontu-vyhlopnoy-sistemy',
+          'ads_filters_required' => '0',
+        ),
+        385 => 
+        array (
+          'ads_filters_id' => '385',
+          'ads_filters_name' => 'Услуги по ремонту двигателя',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '106',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'uslugi-po-remontu-dvigatelya',
+          'ads_filters_required' => '0',
+        ),
+        386 => 
+        array (
+          'ads_filters_id' => '386',
+          'ads_filters_name' => 'Ремонт коробки передач',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '107',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-korobki-peredach',
+          'ads_filters_required' => '0',
+        ),
+        387 => 
+        array (
+          'ads_filters_id' => '387',
+          'ads_filters_name' => 'Ремонт кузовных деталей',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '108',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-kuzovnyh-detaley',
+          'ads_filters_required' => '0',
+        ),
+        388 => 
+        array (
+          'ads_filters_id' => '388',
+          'ads_filters_name' => 'Ремонт системы рулевого колеса',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '109',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-sistemy-rulevogo-kolesa',
+          'ads_filters_required' => '0',
+        ),
+        389 => 
+        array (
+          'ads_filters_id' => '389',
+          'ads_filters_name' => 'Ремонт ходовой части',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '110',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-hodovoy-chasti',
+          'ads_filters_required' => '0',
+        ),
+        390 => 
+        array (
+          'ads_filters_id' => '390',
+          'ads_filters_name' => 'Ремонт электрики',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '111',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-elektriki',
+          'ads_filters_required' => '0',
+        ),
+        391 => 
+        array (
+          'ads_filters_id' => '391',
+          'ads_filters_name' => 'Ремонт cистемы отопления и охлаждения',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '112',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-cistemy-otopleniya-i-ohlazhdeniya',
+          'ads_filters_required' => '0',
+        ),
+        392 => 
+        array (
+          'ads_filters_id' => '392',
+          'ads_filters_name' => 'Тормозная система',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '113',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tormoznaya-sistema',
+          'ads_filters_required' => '0',
+        ),
+        393 => 
+        array (
+          'ads_filters_id' => '393',
+          'ads_filters_name' => 'Услуги по установке топливной аппаратуры',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '114',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'uslugi-po-ustanovke-toplivnoy-apparatury',
+          'ads_filters_required' => '0',
+        ),
+        394 => 
+        array (
+          'ads_filters_id' => '394',
+          'ads_filters_name' => 'Оптика',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '115',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'optika',
+          'ads_filters_required' => '0',
+        ),
+        395 => 
+        array (
+          'ads_filters_id' => '395',
+          'ads_filters_name' => 'Эвакуатор и сервис',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '116',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'evakuator-i-servis',
+          'ads_filters_required' => '0',
+        ),
+      ),
+      90 => 
+      array (
+        302 => 
+        array (
+          'ads_filters_id' => '302',
+          'ads_filters_name' => 'Модель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '90',
+          'ads_filters_alias' => 'model',
+          'ads_filters_required' => '1',
+        ),
+      ),
+      360 => 
+      array (
+        361 => 
+        array (
+          'ads_filters_id' => '361',
+          'ads_filters_name' => 'Модель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '3',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '360',
+          'ads_filters_alias' => 'model',
+          'ads_filters_required' => '1',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      337 => 
+      array (
+        'ads_filters_name' => 'Класс',
+        'ads_filters_type' => 'select',
+      ),
+      83 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      85 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      86 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      91 => 
+      array (
+        'ads_filters_name' => 'Категория',
+        'ads_filters_type' => 'select',
+      ),
+      302 => 
+      array (
+        'ads_filters_name' => 'Модель',
+        'ads_filters_type' => 'input_btn',
+      ),
+      90 => 
+      array (
+        'ads_filters_name' => 'Марка',
+        'ads_filters_type' => 'input_btn',
+      ),
+      362 => 
+      array (
+        'ads_filters_name' => 'Сезон',
+        'ads_filters_type' => 'input_multi_btn',
+      ),
+      311 => 
+      array (
+        'ads_filters_name' => 'Год выпуска',
+        'ads_filters_type' => 'input',
+      ),
+      360 => 
+      array (
+        'ads_filters_name' => 'Подходят к',
+        'ads_filters_type' => 'select_multi',
+      ),
+      361 => 
+      array (
+        'ads_filters_name' => 'Модель',
+        'ads_filters_type' => 'input_btn',
+      ),
+      309 => 
+      array (
+        'ads_filters_name' => 'Тип кузова',
+        'ads_filters_type' => 'input_btn',
+      ),
+      314 => 
+      array (
+        'ads_filters_name' => 'Объём',
+        'ads_filters_type' => 'input',
+      ),
+      93 => 
+      array (
+        'ads_filters_name' => 'Вид транспорта',
+        'ads_filters_type' => 'select',
+      ),
+      368 => 
+      array (
+        'ads_filters_name' => 'Страна производитель',
+        'ads_filters_type' => 'select',
+      ),
+      312 => 
+      array (
+        'ads_filters_name' => 'Тип двигателя',
+        'ads_filters_type' => 'input_btn',
+      ),
+      369 => 
+      array (
+        'ads_filters_name' => 'марка',
+        'ads_filters_type' => 'select',
+      ),
+      315 => 
+      array (
+        'ads_filters_name' => 'Состояние',
+        'ads_filters_type' => 'input_btn',
+      ),
+      92 => 
+      array (
+        'ads_filters_name' => 'Диаметр (R)',
+        'ads_filters_type' => 'select',
+      ),
+      335 => 
+      array (
+        'ads_filters_name' => 'Растаможен',
+        'ads_filters_type' => 'input_btn',
+      ),
+      338 => 
+      array (
+        'ads_filters_name' => 'Количество пассажиров',
+        'ads_filters_type' => 'select',
+      ),
+      364 => 
+      array (
+        'ads_filters_name' => 'Ширина шины',
+        'ads_filters_type' => 'select',
+      ),
+      339 => 
+      array (
+        'ads_filters_name' => 'Мест для багажа',
+        'ads_filters_type' => 'select',
+      ),
+      345 => 
+      array (
+        'ads_filters_name' => 'Цвет кузова',
+        'ads_filters_type' => 'input_btn_color',
+      ),
+      365 => 
+      array (
+        'ads_filters_name' => 'Высота шины',
+        'ads_filters_type' => 'select',
+      ),
+      340 => 
+      array (
+        'ads_filters_name' => 'Кондиционер',
+        'ads_filters_type' => 'select',
+      ),
+      359 => 
+      array (
+        'ads_filters_name' => 'Газовое оборудования',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      371 => 
+      array (
+        'ads_filters_name' => 'Диаметр расположения крепежных отверстий (PCD)',
+        'ads_filters_type' => 'select',
+      ),
+      308 => 
+      array (
+        'ads_filters_name' => 'Коробка передач',
+        'ads_filters_type' => 'input_btn',
+      ),
+      341 => 
+      array (
+        'ads_filters_name' => 'Подушек безопасности:',
+        'ads_filters_type' => 'select_multi',
+      ),
+      372 => 
+      array (
+        'ads_filters_name' => 'Вылет (ET)',
+        'ads_filters_type' => 'select',
+      ),
+      306 => 
+      array (
+        'ads_filters_name' => 'Привод',
+        'ads_filters_type' => 'input_btn',
+      ),
+      89 => 
+      array (
+        'ads_filters_name' => 'Состояние',
+        'ads_filters_type' => 'input_multi_btn',
+      ),
+      56 => 
+      array (
+        'ads_filters_name' => 'Торг',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      363 => 
+      array (
+        'ads_filters_name' => 'Наличие',
+        'ads_filters_type' => 'input_btn',
+      ),
+      310 => 
+      array (
+        'ads_filters_name' => 'Пробег',
+        'ads_filters_type' => 'input',
+      ),
+      316 => 
+      array (
+        'ads_filters_name' => 'Руль',
+        'ads_filters_type' => 'input_btn',
+      ),
+      366 => 
+      array (
+        'ads_filters_name' => 'Есть доставка',
+        'ads_filters_type' => 'input_btn',
+      ),
+      351 => 
+      array (
+        'ads_filters_name' => 'Обмен',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      367 => 
+      array (
+        'ads_filters_name' => 'Адрес',
+        'ads_filters_type' => 'input_text',
+      ),
+      313 => 
+      array (
+        'ads_filters_name' => 'Mощность',
+        'ads_filters_type' => 'input',
+      ),
+      344 => 
+      array (
+        'ads_filters_name' => 'Тех. осмотр',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      370 => 
+      array (
+        'ads_filters_name' => 'Для',
+        'ads_filters_type' => 'input_btn',
+      ),
+      331 => 
+      array (
+        'ads_filters_name' => 'VIN',
+        'ads_filters_type' => 'input_text',
+      ),
+      342 => 
+      array (
+        'ads_filters_name' => 'Turbo',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      336 => 
+      array (
+        'ads_filters_name' => 'Катализатор',
+        'ads_filters_type' => 'input_btn',
+      ),
+      347 => 
+      array (
+        'ads_filters_name' => 'Мультимедиа',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      348 => 
+      array (
+        'ads_filters_name' => 'Комфорт',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      350 => 
+      array (
+        'ads_filters_name' => 'Оптика',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      343 => 
+      array (
+        'ads_filters_name' => 'Авто на гарантии',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      349 => 
+      array (
+        'ads_filters_name' => 'Экстерьер',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      346 => 
+      array (
+        'ads_filters_name' => 'Интерьер',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      84 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      87 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      88 => 
+      array (
+        'ads_filters_name' => 'Вид транспорта',
+        'ads_filters_type' => 'select',
+      ),
+      94 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      95 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      96 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      97 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      98 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      99 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      100 => 
+      array (
+        'ads_filters_name' => 'Тип',
+        'ads_filters_type' => 'select',
+      ),
+      101 => 
+      array (
+        'ads_filters_name' => 'Пол',
+        'ads_filters_type' => 'select',
+      ),
+      373 => 
+      array (
+        'ads_filters_name' => 'Виды диагностики',
+        'ads_filters_type' => 'select_multi',
+      ),
+      374 => 
+      array (
+        'ads_filters_name' => 'Ключи',
+        'ads_filters_type' => 'select_multi',
+      ),
+      375 => 
+      array (
+        'ads_filters_name' => 'Виды дополнительных услуг',
+        'ads_filters_type' => 'select_multi',
+      ),
+      376 => 
+      array (
+        'ads_filters_name' => 'Производитель',
+        'ads_filters_type' => 'select_multi',
+      ),
+      377 => 
+      array (
+        'ads_filters_name' => 'Виды интерьерных услуг',
+        'ads_filters_type' => 'select_multi',
+      ),
+      378 => 
+      array (
+        'ads_filters_name' => 'Стекла',
+        'ads_filters_type' => 'select_multi',
+      ),
+      379 => 
+      array (
+        'ads_filters_name' => 'Мойка',
+        'ads_filters_type' => 'select_multi',
+      ),
+      380 => 
+      array (
+        'ads_filters_name' => 'Мультимедиа',
+        'ads_filters_type' => 'select_multi',
+      ),
+      381 => 
+      array (
+        'ads_filters_name' => 'Обслуживание колес и шин',
+        'ads_filters_type' => 'select_multi',
+      ),
+      382 => 
+      array (
+        'ads_filters_name' => 'Плановое обслуживание',
+        'ads_filters_type' => 'select_multi',
+      ),
+      383 => 
+      array (
+        'ads_filters_name' => 'Программирование',
+        'ads_filters_type' => 'select_multi',
+      ),
+      384 => 
+      array (
+        'ads_filters_name' => 'Услуги по ремонту выхлопной системы',
+        'ads_filters_type' => 'select_multi',
+      ),
+      385 => 
+      array (
+        'ads_filters_name' => 'Услуги по ремонту двигателя',
+        'ads_filters_type' => 'select_multi',
+      ),
+      386 => 
+      array (
+        'ads_filters_name' => 'Ремонт коробки передач',
+        'ads_filters_type' => 'select_multi',
+      ),
+      387 => 
+      array (
+        'ads_filters_name' => 'Ремонт кузовных деталей',
+        'ads_filters_type' => 'select_multi',
+      ),
+      388 => 
+      array (
+        'ads_filters_name' => 'Ремонт системы рулевого колеса',
+        'ads_filters_type' => 'select_multi',
+      ),
+      389 => 
+      array (
+        'ads_filters_name' => 'Ремонт ходовой части',
+        'ads_filters_type' => 'select_multi',
+      ),
+      390 => 
+      array (
+        'ads_filters_name' => 'Ремонт электрики',
+        'ads_filters_type' => 'select_multi',
+      ),
+      391 => 
+      array (
+        'ads_filters_name' => 'Ремонт cистемы отопления и охлаждения',
+        'ads_filters_type' => 'select_multi',
+      ),
+      392 => 
+      array (
+        'ads_filters_name' => 'Тормозная система',
+        'ads_filters_type' => 'select_multi',
+      ),
+      393 => 
+      array (
+        'ads_filters_name' => 'Услуги по установке топливной аппаратуры',
+        'ads_filters_type' => 'select_multi',
+      ),
+      394 => 
+      array (
+        'ads_filters_name' => 'Оптика',
+        'ads_filters_type' => 'select_multi',
+      ),
+      395 => 
+      array (
+        'ads_filters_name' => 'Эвакуатор и сервис',
+        'ads_filters_type' => 'select_multi',
+      ),
+    ),
+  ),
+) ?>

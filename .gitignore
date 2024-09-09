@@ -1,0 +1,11 @@
+/dev
+/media
+/backups
+/cache
+/email
+/git
+/lang
+/test
+vendor/
+backup/
+*.zip

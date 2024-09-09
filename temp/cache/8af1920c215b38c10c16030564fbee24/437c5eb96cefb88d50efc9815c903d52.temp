@@ -1,0 +1,32 @@
+<?php return array (
+  'time' => 1725902285,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        379 => 
+        array (
+          'ads_filters_id' => '379',
+          'ads_filters_name' => 'Мойка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '100',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'moyka',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      379 => 
+      array (
+        'ads_filters_name' => 'Мойка',
+        'ads_filters_type' => 'select_multi',
+      ),
+    ),
+  ),
+) ?>

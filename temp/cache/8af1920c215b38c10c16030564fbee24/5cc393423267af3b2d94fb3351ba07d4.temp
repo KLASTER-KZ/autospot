@@ -1,0 +1,32 @@
+<?php return array (
+  'time' => 1725902174,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        390 => 
+        array (
+          'ads_filters_id' => '390',
+          'ads_filters_name' => 'Ремонт электрики',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'select_multi',
+          'ads_filters_position' => '111',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'remont-elektriki',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      390 => 
+      array (
+        'ads_filters_name' => 'Ремонт электрики',
+        'ads_filters_type' => 'select_multi',
+      ),
+    ),
+  ),
+) ?>

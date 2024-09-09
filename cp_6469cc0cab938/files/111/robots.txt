@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Host: https://autospot.ge
+Sitemap: https://autospot.ge/sitemap.xml
+Disallow: /media/
+Disallow: /temp/
+Disallow: /templates/

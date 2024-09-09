@@ -1,0 +1,134 @@
+<?php return array (
+  'time' => 1725901576,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      0 => 
+      array (
+        90 => 
+        array (
+          'ads_filters_id' => '90',
+          'ads_filters_name' => 'Марка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'marka',
+          'ads_filters_required' => '1',
+        ),
+        311 => 
+        array (
+          'ads_filters_id' => '311',
+          'ads_filters_name' => 'Год выпуска',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '3',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'god-vypuska',
+          'ads_filters_required' => '1',
+        ),
+        314 => 
+        array (
+          'ads_filters_id' => '314',
+          'ads_filters_name' => 'Объём',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'obem',
+          'ads_filters_required' => '1',
+        ),
+        312 => 
+        array (
+          'ads_filters_id' => '312',
+          'ads_filters_name' => 'Тип двигателя',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '5',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip-dvigatelya',
+          'ads_filters_required' => '1',
+        ),
+        345 => 
+        array (
+          'ads_filters_id' => '345',
+          'ads_filters_name' => 'Цвет кузова',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn_color',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'cvet-kuzova',
+          'ads_filters_required' => '1',
+        ),
+        308 => 
+        array (
+          'ads_filters_id' => '308',
+          'ads_filters_name' => 'Коробка передач',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '10',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'korobka-peredach',
+          'ads_filters_required' => '0',
+        ),
+        306 => 
+        array (
+          'ads_filters_id' => '306',
+          'ads_filters_name' => 'Привод',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '11',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'privod',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      90 => 
+      array (
+        'ads_filters_name' => 'Марка',
+        'ads_filters_type' => 'input_btn',
+      ),
+      311 => 
+      array (
+        'ads_filters_name' => 'Год выпуска',
+        'ads_filters_type' => 'input',
+      ),
+      314 => 
+      array (
+        'ads_filters_name' => 'Объём',
+        'ads_filters_type' => 'input',
+      ),
+      312 => 
+      array (
+        'ads_filters_name' => 'Тип двигателя',
+        'ads_filters_type' => 'input_btn',
+      ),
+      345 => 
+      array (
+        'ads_filters_name' => 'Цвет кузова',
+        'ads_filters_type' => 'input_btn_color',
+      ),
+      308 => 
+      array (
+        'ads_filters_name' => 'Коробка передач',
+        'ads_filters_type' => 'input_btn',
+      ),
+      306 => 
+      array (
+        'ads_filters_name' => 'Привод',
+        'ads_filters_type' => 'input_btn',
+      ),
+    ),
+  ),
+) ?>

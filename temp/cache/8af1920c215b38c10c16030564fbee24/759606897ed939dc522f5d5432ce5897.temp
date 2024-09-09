@@ -1,0 +1,392 @@
+<?php return array (
+  'time' => 1725902729,
+  'data' => 
+  array (
+    'id_parent' => 
+    array (
+      90 => 
+      array (
+        302 => 
+        array (
+          'ads_filters_id' => '302',
+          'ads_filters_name' => 'Модель',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '90',
+          'ads_filters_alias' => 'model',
+          'ads_filters_required' => '1',
+        ),
+      ),
+      0 => 
+      array (
+        90 => 
+        array (
+          'ads_filters_id' => '90',
+          'ads_filters_name' => 'Марка',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '2',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'marka',
+          'ads_filters_required' => '1',
+        ),
+        311 => 
+        array (
+          'ads_filters_id' => '311',
+          'ads_filters_name' => 'Год выпуска',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '3',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'god-vypuska',
+          'ads_filters_required' => '1',
+        ),
+        309 => 
+        array (
+          'ads_filters_id' => '309',
+          'ads_filters_name' => 'Тип кузова',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip-kuzova',
+          'ads_filters_required' => '1',
+        ),
+        314 => 
+        array (
+          'ads_filters_id' => '314',
+          'ads_filters_name' => 'Объём',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '4',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'obem',
+          'ads_filters_required' => '1',
+        ),
+        312 => 
+        array (
+          'ads_filters_id' => '312',
+          'ads_filters_name' => 'Тип двигателя',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '5',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'tip-dvigatelya',
+          'ads_filters_required' => '1',
+        ),
+        315 => 
+        array (
+          'ads_filters_id' => '315',
+          'ads_filters_name' => 'Состояние',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '6',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'sostoyanie',
+          'ads_filters_required' => '1',
+        ),
+        335 => 
+        array (
+          'ads_filters_id' => '335',
+          'ads_filters_name' => 'Растаможен',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '7',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'rastamozhen',
+          'ads_filters_required' => '1',
+        ),
+        345 => 
+        array (
+          'ads_filters_id' => '345',
+          'ads_filters_name' => 'Цвет кузова',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn_color',
+          'ads_filters_position' => '8',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'cvet-kuzova',
+          'ads_filters_required' => '1',
+        ),
+        308 => 
+        array (
+          'ads_filters_id' => '308',
+          'ads_filters_name' => 'Коробка передач',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '10',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'korobka-peredach',
+          'ads_filters_required' => '0',
+        ),
+        306 => 
+        array (
+          'ads_filters_id' => '306',
+          'ads_filters_name' => 'Привод',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '11',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'privod',
+          'ads_filters_required' => '0',
+        ),
+        56 => 
+        array (
+          'ads_filters_id' => '56',
+          'ads_filters_name' => 'Торг',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '12',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'torg',
+          'ads_filters_required' => '0',
+        ),
+        310 => 
+        array (
+          'ads_filters_id' => '310',
+          'ads_filters_name' => 'Пробег',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'probeg',
+          'ads_filters_required' => '0',
+        ),
+        316 => 
+        array (
+          'ads_filters_id' => '316',
+          'ads_filters_name' => 'Руль',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_btn',
+          'ads_filters_position' => '13',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'rul',
+          'ads_filters_required' => '0',
+        ),
+        344 => 
+        array (
+          'ads_filters_id' => '344',
+          'ads_filters_name' => 'Тех. осмотр',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '15',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'teh-osmotr',
+          'ads_filters_required' => '0',
+        ),
+        331 => 
+        array (
+          'ads_filters_id' => '331',
+          'ads_filters_name' => 'VIN',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_text',
+          'ads_filters_position' => '16',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'vin',
+          'ads_filters_required' => '0',
+        ),
+        342 => 
+        array (
+          'ads_filters_id' => '342',
+          'ads_filters_name' => 'Turbo',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'switch_btn',
+          'ads_filters_position' => '16',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'turbo',
+          'ads_filters_required' => '0',
+        ),
+        347 => 
+        array (
+          'ads_filters_id' => '347',
+          'ads_filters_name' => 'Мультимедиа',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '17',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'multimedia',
+          'ads_filters_required' => '0',
+        ),
+        348 => 
+        array (
+          'ads_filters_id' => '348',
+          'ads_filters_name' => 'Комфорт',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '18',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'komfor',
+          'ads_filters_required' => '0',
+        ),
+        350 => 
+        array (
+          'ads_filters_id' => '350',
+          'ads_filters_name' => 'Оптика',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '19',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'optika',
+          'ads_filters_required' => '0',
+        ),
+        349 => 
+        array (
+          'ads_filters_id' => '349',
+          'ads_filters_name' => 'Экстерьер',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '23',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'eksterer',
+          'ads_filters_required' => '0',
+        ),
+        346 => 
+        array (
+          'ads_filters_id' => '346',
+          'ads_filters_name' => 'Интерьер',
+          'ads_filters_visible' => '1',
+          'ads_filters_type' => 'input_checkbox',
+          'ads_filters_position' => '24',
+          'ads_filters_podcat' => '1',
+          'ads_filters_id_parent' => '0',
+          'ads_filters_alias' => 'interer',
+          'ads_filters_required' => '0',
+        ),
+      ),
+    ),
+    'id' => 
+    array (
+      302 => 
+      array (
+        'ads_filters_name' => 'Модель',
+        'ads_filters_type' => 'input_btn',
+      ),
+      90 => 
+      array (
+        'ads_filters_name' => 'Марка',
+        'ads_filters_type' => 'input_btn',
+      ),
+      311 => 
+      array (
+        'ads_filters_name' => 'Год выпуска',
+        'ads_filters_type' => 'input',
+      ),
+      309 => 
+      array (
+        'ads_filters_name' => 'Тип кузова',
+        'ads_filters_type' => 'input_btn',
+      ),
+      314 => 
+      array (
+        'ads_filters_name' => 'Объём',
+        'ads_filters_type' => 'input',
+      ),
+      312 => 
+      array (
+        'ads_filters_name' => 'Тип двигателя',
+        'ads_filters_type' => 'input_btn',
+      ),
+      315 => 
+      array (
+        'ads_filters_name' => 'Состояние',
+        'ads_filters_type' => 'input_btn',
+      ),
+      335 => 
+      array (
+        'ads_filters_name' => 'Растаможен',
+        'ads_filters_type' => 'input_btn',
+      ),
+      345 => 
+      array (
+        'ads_filters_name' => 'Цвет кузова',
+        'ads_filters_type' => 'input_btn_color',
+      ),
+      308 => 
+      array (
+        'ads_filters_name' => 'Коробка передач',
+        'ads_filters_type' => 'input_btn',
+      ),
+      306 => 
+      array (
+        'ads_filters_name' => 'Привод',
+        'ads_filters_type' => 'input_btn',
+      ),
+      56 => 
+      array (
+        'ads_filters_name' => 'Торг',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      310 => 
+      array (
+        'ads_filters_name' => 'Пробег',
+        'ads_filters_type' => 'input',
+      ),
+      316 => 
+      array (
+        'ads_filters_name' => 'Руль',
+        'ads_filters_type' => 'input_btn',
+      ),
+      344 => 
+      array (
+        'ads_filters_name' => 'Тех. осмотр',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      331 => 
+      array (
+        'ads_filters_name' => 'VIN',
+        'ads_filters_type' => 'input_text',
+      ),
+      342 => 
+      array (
+        'ads_filters_name' => 'Turbo',
+        'ads_filters_type' => 'switch_btn',
+      ),
+      347 => 
+      array (
+        'ads_filters_name' => 'Мультимедиа',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      348 => 
+      array (
+        'ads_filters_name' => 'Комфорт',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      350 => 
+      array (
+        'ads_filters_name' => 'Оптика',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      349 => 
+      array (
+        'ads_filters_name' => 'Экстерьер',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+      346 => 
+      array (
+        'ads_filters_name' => 'Интерьер',
+        'ads_filters_type' => 'input_checkbox',
+      ),
+    ),
+  ),
+) ?>
