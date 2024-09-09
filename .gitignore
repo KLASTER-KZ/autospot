@@ -9,3 +9,4 @@
 vendor/
 backup/
 *.zip
+/config.php
